@@ -1,0 +1,85 @@
+body
+{   
+    margin-top:50px;
+    padding: 0;
+    align-items: center;
+    background: url(/home/prathibha/We-Network/homepage.jpg);
+    font-family: sans-serif;
+    background-size: cover;
+    text-align:center;
+     background-repeat: no-repeat;
+    
+}
+h1
+{
+	font-family: sans-serif;
+	color: #fff;
+	text-align: center;
+
+}
+
+.contact-tile
+{
+	margin-top: 50px;
+	color:#fff;
+	text-transform: uppercase;
+	transition: all 4s ease-in-out;
+}
+form
+{
+	margin-top: 50px;
+	transition: all 4s ease-in-out;
+}
+input
+{
+	 height: :45px;
+}
+.form-elements
+{
+	width:300px;
+	background: transparent;
+	border:none;
+	outline: none;
+	border-bottom:1px solid white;
+	color:#fff;
+	font-size: 18px;
+	margin-bottom: 16px;
+	font-weight: 200px;
+	padding-top: 25px;
+	
+
+}
+/*form .button
+{
+	background:#ff5722;
+	border-color: transparent;
+	color: #fff;
+	font-size: 20px;
+	font-weight: bold;
+	letter-spacing: 2px;
+	height: 50px;
+	margin-top: 20px;
+}*/
+.form-elements-submit
+{
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.form-elements-submit:hover
+{
+	background-color: #ff8c00;
+}
+.links
+{
+	font-weight: bold;
+	color: #fff;
+}
